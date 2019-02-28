@@ -1,0 +1,283 @@
+
+.ert{    
+    width:620px;
+    margin:0 auto; 
+
+}
+#first-border{
+    border:10px solid #020b44;
+    border-bottom-left-radius:300px;
+    border-bottom-right-radius:300px;
+    border-top-left-radius:300px;
+    border-top-right-radius:300px;
+
+}
+.badge {
+    position: relative;
+    width: 300px;
+    border-radius: 70%;
+    border-color:white;
+    /* transform: rotate(-65deg); */
+    margin:0 auto;
+    
+}  
+.badge span {
+    font-size:45px;
+    /* height: 200px; */
+    position: absolute;
+    /* width: 60px; */
+    /* left:0px;
+    top: 0; */
+    transform-origin: bottom center;
+    border-color:yellow;
+  }
+  
+  span.char1 {
+    transform: rotate(-90deg);
+    TOP: 277px;
+    left: -108px;
+  }
+  
+  span.char2 {
+    transform: rotate(-82deg);
+    TOP: 238px;
+    left: -112px;
+}
+  
+  span.char3 {
+    transform: rotate(-78deg);
+    top: 199px;
+    left: -100px;
+  }
+  
+  span.char4 {
+    left: -92px;
+    transform: rotate(-73deg);
+    top: 164px;
+  }
+  
+  span.char5 {
+    transform: rotate(-67deg);
+    left: -78px;
+    top: 132px;
+  }
+  
+  span.char6 {
+    transform: rotate(-58deg);
+    left: -60px;
+    top: 103px;
+  }
+  
+  span.char7 {
+    transform: rotate(-48deg);
+    top: 76px;
+    left: -42px;
+  }
+  
+  span.char8 {
+    transform: rotate(-37deg);
+    left: -21px;
+    top: 52px;
+  }
+  
+  span.char9 {
+    transform: rotate(-28deg);
+    top: 35px;
+    left: 2px;
+  }
+  
+  span.char10 {
+  
+  }
+  
+  .char11 {
+    transform: rotate(-9deg);
+    left: 60px;
+    top: 15px;
+  }
+  
+  .char12 {
+    transform: rotate(-4deg);
+    top: 11px;
+    left: 92px;
+  }
+  
+  .char13 {
+    transform: rotate(2deg);
+    top: 10px;
+    left: 122px;
+  }
+  
+  .char14 {
+    transform: rotate(5deg);
+    top: 11px;
+    left: 152px;
+  }
+  
+  .char15 {
+    transform: rotate(5deg);
+    top: 15px;
+    left: 183px;
+  }
+  
+  .char16 {
+    transform: rotate(19deg);
+    top: 24px;
+    left: 210px;
+  }
+  
+  .char17 {
+    transform: rotate(23deg);
+    font-size: 40px;
+    top: 38px;
+    left: 246px
+  }
+  
+  .char18 {
+    transform: rotate(29deg);
+    top: 51px;
+    left: 271px;
+  }
+  
+  .char19 {
+    transform: rotate(114deg);
+    font-size:40px;
+  }
+  
+  .char20 {
+    transform: rotate(50deg);
+    font-size: 40px;
+    top: 88px;
+    left: 314px;
+  
+  }
+  
+  .char21 {
+    transform: rotate(58deg);
+    font-size: 40px;
+    top: 112px;
+    left: 332px;
+  }
+  
+  .char22 {
+    transform: rotate(62deg);
+    font-size: 40px;
+    top: 141px;
+    left: 345px;
+  }
+  
+  .char23 {
+    transform: rotate(68deg);
+    font-size: 40px;
+    left: 357px;
+    top: 177px;
+  }
+  
+  .char24 {
+    transform: rotate(144deg);
+    font-size:40px;
+  }
+
+
+
+
+
+#users{
+    
+  font-size: 200px;
+  display: block;
+  position: relative;
+  width: 400px;
+  height: 180px;
+  color: red;
+  border: 7px solid #020b44;
+  border-top-left-radius: 300px;
+  border-top-right-radius: 300px;
+  border-top: 20;
+  border-bottom: none;
+  margin: 0 auto;
+  margin-top: 133px;
+  margin-left: 100px;
+  
+     
+        
+      
+}
+.fa-users:before {
+  
+  margin: 0px 0px 200px 70px;
+}
+#caption{
+  font-size: 150px;
+    display: block;
+    position: absolute;
+    top: 284px;
+    text-align: center;
+    width: 400px;
+    height: 263px;
+    border: 7px solid #020b44;
+    border-bottom-left-radius: 300px;
+    border-bottom-right-radius: 300px;
+    border-top: none;
+    border-bottom: none;
+    margin: 0 auto;
+    margin-left: 100px;
+    
+ 
+}
+
+.wrench{
+  font-size: 200px;
+    line-height: 0px;
+    margin: 0 auto;
+    margin-left: 85px;
+    margin-top: 100px;
+
+}
+#wrench1{
+    transform: rotate(-130deg);
+    color:#020b44
+}
+#wrench2{
+    transform: rotate(40deg);
+    color:#020b44
+    
+}
+
+.rectangle {
+ 
+    line-height: 0px;
+    
+    position:relative;
+    height: 300px;
+    width: 300px;
+    background-color: rgb(236, 34, 34);
+    margin:0 auto;
+    margin-top:-73px;
+  }
+.lifesaver h2{
+   position:absolute;
+   margin-top:200px;
+   margin-left:110px;
+   color:white;
+   font-size: 40px;
+}
+.lifesaver h1{
+    position:absolute;
+    margin-top:240px;
+    margin-left:90px;
+    color:white;
+    font-size: 40px;
+}
+
+  .arrow-down{
+    width: 0px; 
+    height: 60px; 
+    border-left: 300px solid transparent;
+    border-right: 300px solid transparent;
+    top:300px;
+    margin:0 auto;
+    align-items: center;
+    border-top: 350px solid rgb(236, 34, 34);
+   
+  }
